@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I'm Kevon Senior    
 
-<!--
-**seniork7/seniork7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer | Media Design Student  
+🌱 Currently learning React, Vue & Typescript                
+🎯 Goal: Build full-stack web apps and SaaS projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+💡 Languages: JavaScript, HTML, CSS                  
+🎨 Frontend: React, Vue, Sass, TailwindCSS  
+⚙️ Backend: Node.js, Express, REST API  
+🧰 Tools: Git, GitHub, VS Code, Figma, Postman  
+
+---
+
+### 🔧 Projects
+🛒 **AllMart** – Demo grocery store web app/api                
+📽️ **PokéHub** – Dynamic web app include authentication and local storage 
+
+---
+
+### 💬 Interests
+Web development • SaaS • Automation  
+Tech content • Personal growth  
+☕ Code + coffee = happy developer  
+
+---
+
+### 📫 Connect With Me
+🔗 Portfolio: [kevonsenior]()  
+💼 LinkedIn: [linkedin.com/in/kevon-senior-b38434235](https://www.linkedin.com/in/kevon-senior-b38434235/)  
+✉️ Email: kevasenior@gmail.com  
+
+---
+
+### 📊 GitHub Stats
+![Kevon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniork7&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniork7&layout=compact&theme=dark)  
+
+---
+
+### 🛡️ Open to Collaborate
+![Open to Work](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge)  
+
