@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Kevon Senior    
 
 💻 Junior Web Developer | Media Design Student  
-🌱 Currently learning React, Vue & Typescript                
+🌱 Currently learning React & Vue Js                
 🎯 Goal: Build full-stack web apps and SaaS projects  
 
 ---
@@ -21,9 +21,8 @@
 ---
 
 ### 💬 Interests
-Web development • SaaS • Automation  
-Tech content • Personal growth  
-☕ Code + coffee = happy developer  
+Web development • Tech content • Personal growth  
+☕ Code + tea = happy developer  
 
 ---
 
