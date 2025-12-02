@@ -16,8 +16,8 @@
 ---
 
 ### 🔧 Projects
-🧯 **Public Safety** - A full-stack volunteer registration platform
 🛒 **AllMart** – Demo grocery store web app/api                
+🧯 **Public Safety** - A full-stack volunteer registration platform
 📽️ **PokéHub** – Dynamic web app include authentication and local storage 
 
 ---
