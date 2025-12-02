@@ -10,6 +10,7 @@
 💡 Languages: JavaScript, HTML, CSS                  
 🎨 Frontend: React, Vue, Sass, TailwindCSS  
 ⚙️ Backend: Node.js, Express, REST API, MongoDB
+
 🧰 Tools: Git, GitHub, VS Code, Figma, Postman  
 
 ---
