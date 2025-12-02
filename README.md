@@ -9,12 +9,13 @@
 ### 🚀 Tech Stack
 💡 Languages: JavaScript, HTML, CSS                  
 🎨 Frontend: React, Vue, Sass, TailwindCSS  
-⚙️ Backend: Node.js, Express, REST API  
+⚙️ Backend: Node.js, Express, REST API, MongoDB
 🧰 Tools: Git, GitHub, VS Code, Figma, Postman  
 
 ---
 
 ### 🔧 Projects
+🧯 **Public Safety** - A full-stack volunteer registration platform
 🛒 **AllMart** – Demo grocery store web app/api                
 📽️ **PokéHub** – Dynamic web app include authentication and local storage 
 
