@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Kevon Senior    
 
-💻 Junior Web Developer | Media Design Student  
-🌱 Currently learning React & Vue Js                
+💻 Junior Web Developer | Digital Experience Designer           
 🎯 Goal: Build full-stack web apps and SaaS projects  
 
 ---
@@ -31,7 +30,7 @@ Web development • Tech content • Personal growth
 ### 📫 Connect With Me
 🔗 Portfolio: [kevonsenior](https://kevonsenior.com)  
 💼 LinkedIn: [linkedin.com/in/kevon-senior-b38434235](https://www.linkedin.com/in/kevon-senior-b38434235/)  
-✉️ Email: kevasenior@gmail.com  
+✉️ Email: kevasenior@gmail.com
 
 ---
 
