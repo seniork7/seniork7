@@ -7,7 +7,7 @@ Goal: Build full-stack web apps and SaaS projects
 
 ### Tech Stack
 Languages: JavaScript, Typescript, HTML, CSS                  
-Frontend: React, Vue, Sass, TailwindCSS  
+Frontend: React, Next.Js, Vue, Sass, TailwindCSS  
 Backend: Node.js, Express, REST API, MongoDB
 
 Tools: Git, GitHub, VS Code, Figma, Postman  
