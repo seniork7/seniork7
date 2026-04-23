@@ -1,13 +1,13 @@
 # Hey, I'm Kevon Senior    
 
-Junior Web Developer | Digital Experience Designer           
+Full-Stack Web Developer           
 Goal: Build full-stack web apps and SaaS projects  
 
 ---
 
 ### Tech Stack
 Languages: JavaScript, Typescript, HTML, CSS                  
-Frontend: React, Next.Js, Vue, Sass, TailwindCSS  
+Frontend: React, Sass, TailwindCSS  
 Backend: Node.js, Express, REST API, MongoDB
 
 Tools: Git, GitHub, VS Code, Figma, Postman  
@@ -15,9 +15,8 @@ Tools: Git, GitHub, VS Code, Figma, Postman
 ---
 
 ### Projects
-**Public Safety** - A full-stack volunteer registration platform
-**AllMart** – Demo grocery store web app/api                
-**PokéHub** – Dynamic web app include authentication and local storage 
+**Public Safety** - Community Platform & Admin Dashboard 
+**SafePoint** – Canadian Safety Data Source for Developers 
 
 ---
 
